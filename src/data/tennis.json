@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "title": "What is tennis?",
+    "content": "Tennis is a racket sport played between two players (singles) or two teams of two players (doubles) on a rectangular court divided by a net."
+  },
+  {
+    "id": 1,
+    "title": "How does scoring work in tennis?",
+    "content": "Points are counted as 15, 30, 40, and game. If both players reach 40, it's called 'deuce' and a player must win two consecutive points to win the game."
+  },
+  {
+    "id": 2,
+    "title": "What are the four Grand Slam tournaments?",
+    "content": "The four Grand Slams are: Australian Open (January), French Open (May-June), Wimbledon (June-July), and US Open (August-September)."
+  },
+  {
+    "id": 3,
+    "title": "What are the different court surfaces?",
+    "content": "The main surfaces are: hard court (fast game, consistent bounce), clay court (slow game, high bounce), and grass court (very fast game, low bounce)."
+  },
+  {
+    "id": 4,
+    "title": "What is an 'ace' in tennis?",
+    "content": "An ace is a serve that the opponent cannot touch with their racket. It results in an immediate point for the server."
+  }
+]
